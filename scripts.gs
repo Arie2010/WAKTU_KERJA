@@ -179,3 +179,8 @@ function TotalHours()
     mainSheet.getRange(2+i,6).setValue(totals[i][0]).setFontSize(12);
     mainSheet.getRange(2+i,7).setValue(totals[i][1]).setFontSize(12);  
   } 
+}
+
+
+
+
